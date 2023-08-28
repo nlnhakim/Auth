@@ -1,0 +1,12 @@
+com.iqonic.flutterviz.flutterviz.app-core-1.6.0-0 C:\Users\fathi\.gradle\caches\transforms-3\7fc722546b132950b2d72da0aed312ac\transformed\core-1.6.0\res
+com.iqonic.flutterviz.flutterviz.app-jetified-window-1.0.0-beta04-1 C:\Users\fathi\.gradle\caches\transforms-3\b5f887fe5dda9f66072ea47a9eaf666e\transformed\jetified-window-1.0.0-beta04\res
+com.iqonic.flutterviz.flutterviz.app-jetified-window-java-1.0.0-beta04-2 C:\Users\fathi\.gradle\caches\transforms-3\b9dcdb3fe6081f9a2fa5e4cd60f7a820\transformed\jetified-window-java-1.0.0-beta04\res
+com.iqonic.flutterviz.flutterviz.app-jetified-annotation-experimental-1.1.0-3 C:\Users\fathi\.gradle\caches\transforms-3\e1d017b24f8d2dc54613a56a59a0e813\transformed\jetified-annotation-experimental-1.1.0\res
+com.iqonic.flutterviz.flutterviz.app-debug-4 C:\flutter\test (1)\android\app\src\debug\res
+com.iqonic.flutterviz.flutterviz.app-main-5 C:\flutter\test (1)\android\app\src\main\res
+com.iqonic.flutterviz.flutterviz.app-pngs-6 C:\flutter\test (1)\build\app\generated\res\pngs\debug
+com.iqonic.flutterviz.flutterviz.app-resValues-7 C:\flutter\test (1)\build\app\generated\res\resValues\debug
+com.iqonic.flutterviz.flutterviz.app-rs-8 C:\flutter\test (1)\build\app\generated\res\rs\debug
+com.iqonic.flutterviz.flutterviz.app-mergeDebugResources-9 C:\flutter\test (1)\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.iqonic.flutterviz.flutterviz.app-mergeDebugResources-10 C:\flutter\test (1)\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.iqonic.flutterviz.flutterviz.app-merged_res-11 C:\flutter\test (1)\build\app\intermediates\merged_res\debug
